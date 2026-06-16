@@ -357,7 +357,7 @@ Provides transaction trends, expenditure analysis, card category performance, an
 
 # 👨‍💻 Author
 
-**Your Name**
+**Siddhesh Shinde**
 
 Data Analyst | Power BI Developer | SQL Developer
 
